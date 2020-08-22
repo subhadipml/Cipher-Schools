@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 1000px;
+    height: 100%;
+    margin: auto;
+}
+#table2{
+    width: 800px;
+    height: 100%;
+    margin: auto;
+}
+#title {
+    font-family: Arial;
+    font-size: 22px;
+    text-transform: capitalize;
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+#mainhr {
+    height: 3px;
+    background-color: rgb(229, 229, 229);
+}
+tr{
+    margin: 20px;
+}
+
+td {
+    height: 10px;
+    font-family: arial;
+    font-size: 14px;
+    padding:2px
+}
+#bat1 {
+    margin: 5px 0 8px 0;
+    width: 150px;
+    
+}
+#capture{
+    border: 1px solid #E3E3E3;
+}
+#bat2{
+    width: 255px;
+    height: 38px;
+    background: lightgreen no-repeat 0 0;
+    font-size: 22px;
+
+    border: 2px solid black;
+    
+}
+.suggest{
+    font-family: arial;
+    font-size: 10px;
+    color: rgb(134, 134, 134);
+}
+#valid{
+    font-family: arial;
+    font-size: 20px;
+}
+input, select {
+    font-family: arial;
+    font-size: 14px;
+}
