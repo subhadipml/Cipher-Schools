@@ -1,0 +1,105 @@
+/*index.html*/
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 900px;
+    height: 100%;
+    margin: auto;
+    border: 7px solid skyblue;
+    padding: 30px;
+    
+}
+#header{
+    font-family: Courier;
+    font-size: 40px;
+    color: rgb(72, 163, 199);
+}
+#navigation{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#navigation ul{
+    list-style: none;
+}
+#navigation ul li{
+    display: inline;
+    padding-right: 15px;
+}
+#navigation ul li a{
+    text-decoration: none;
+    font-family: serif;
+    color: rgb(100, 160, 197);
+}
+#footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 3px 0 3px 0;
+    font-size: 15px;
+}
+img{
+    margin: 10px 0 10px 0;
+    width: 60%;
+    border: 2px solid black;
+}
+#master {
+    font-family: sans-serif;
+}
+#master h2 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#master p {
+    font-size: 15px;
+    color: gray;
+}
+
+
+
+
+/*menu.html.*/
+#men h1 {
+    padding: 10px 0 10px 0;
+}
+#men h3 {
+    color: lightslategray;
+}
+#men ul{
+    padding-left: 50px;
+}
+
+
+
+/*recipes.html*/
+#resci h1{
+    padding: 20px 0 20px 0;
+}
+#resci p {
+    color: lightslategray;
+}
+#resci ul li, ol li {
+    color: lightslategray;
+}
+#resci ul, ol {
+    padding-left: 50px;
+}
+
+
+
+
+/*opening.html*/
+#open h2 {
+    padding: 20px 0 20px 0;
+}
+#open th{
+    padding: 5px 0 5px 0;
+}
+#open td{
+    padding: 5px 5px 5px 0;
+}
+
+
+/*contact.html*/
